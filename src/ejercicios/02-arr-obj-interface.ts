@@ -2,7 +2,6 @@
 /*
     ===== Código de TypeScript =====
 
-    https://www.typescriptlang.org/docs/handbook/basic-types.html
 */
 
 let habilidades: string[] = ['Bash','Counter','Healing'];
